@@ -1,0 +1,54 @@
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.exe
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.xml
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.pdb
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.exe
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.pdb
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.xml
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.MenuIniciar.resources
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.MenuLogin.resources
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.Resources.resources
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Trabalho Pré-Aula\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.exe.config
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.exe
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.xml
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.pdb
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadaArea.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadCategoria.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadCliente.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadFuncionario.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadLivro.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadStatus.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.MenuIniciar.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.MenuLogin.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.Resources.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.exe
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.pdb
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.xml
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadLocacao.resources
+E:\TCC\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadLocalozacao.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.exe.config
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.exe
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.pdb
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\bin\Debug\Bliblioteca_2011.xml
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.vbprojAssemblyReference.cache
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadaArea.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadCategoria.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadCliente.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadFuncionario.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadLivro.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadLocacao.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadLocalozacao.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.CadStatus.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.MenuIniciar.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.MenuLogin.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.Resources.resources
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.vbproj.GenerateResource.cache
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.vbproj.CoreCompileInputs.cache
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.exe
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.xml
+C:\ProjetosFinantec\Github\Bliblioteca_2011\Bliblioteca_2011\obj\x86\Debug\Bliblioteca_2011.pdb
